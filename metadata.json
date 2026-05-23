@@ -1,0 +1,6 @@
+{
+  "name": "Insurance Data Tracker",
+  "description": "सभी प्रकार के इंश्योरेंस एजेंट्स के लिए पॉलिसी कमीशन कैलकुलेटर और मैनेजमेंट टूल (Insurance Data Tracker) - आसानी से कमीशन ट्रैक करें।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
